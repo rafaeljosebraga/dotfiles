@@ -8,12 +8,12 @@ Minha configuração pessoal do LazyVim.
 ### Linux / WSL
 
 ```bash
-git clone https://github.com/SEU_USUARIO/lazyvim-config.git ~/.config/nvim
+git clone https://github.com/rafaeljosebraga/dotfiles ~/.config/nvim
 nvim
 ```
 ### Windows(PowerShell)
 
 ```bash
-git clone https://github.com/SEU_USUARIO/lazyvim-config.git $env:LOCALAPPDATA\nvim
+git clone https://github.com/rafaeljosebraga/dotfiles $env:LOCALAPPDATA\nvim
 nvim
 ```
